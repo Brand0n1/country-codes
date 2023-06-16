@@ -1,6 +1,6 @@
 :root {
-  --font-size: clamp(16px, 1svw, 4rem);
-  --icon-size: clamp(42px, 2.5svw, 4rem);
+  --font-size: clamp(30px, 1svw, 4rem);
+  --icon-size: clamp(68px, 2.5svw, 4rem);
 }
 
 body {
@@ -27,7 +27,7 @@ table {
 }
 
 .header {
-  font-size: clamp(16px, 1.2svw, 4rem);
+  font-size: clamp(30px, 1.2svw, 4rem);
   background-color: #595959a3;
   height: 55px;
 }
@@ -80,5 +80,9 @@ tr {
   .country-code,
   .iso-code {
     width: auto;
+  }
+
+  .icon {
+    height: 79px;
   }
 }
