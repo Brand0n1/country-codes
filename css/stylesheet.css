@@ -56,7 +56,7 @@ tr {
 
 .icon {
   font-size: var(--icon-size);
-  height: 55px;
+  height: 79px;
 }
 
 .text {
@@ -80,9 +80,5 @@ tr {
   .country-code,
   .iso-code {
     width: auto;
-  }
-
-  .icon {
-    height: 79px;
   }
 }
