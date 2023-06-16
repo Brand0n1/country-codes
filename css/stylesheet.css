@@ -1,3 +1,8 @@
+:root {
+  --font-size: clamp(16px, 1svw, 4rem);
+  --icon-size: clamp(42px, 2.5svw, 4rem);
+}
+
 body {
   font-family: Arial Rounded MT Bold;
   background-color: #1d1e22;
@@ -6,7 +11,7 @@ body {
 }
 
 header {
-  font-size: clamp(10px, 2.5svw, 4rem);
+  font-size: clamp(45px, 2.5svw, 4rem);
   background-color: #333;
   justify-content: center;
   align-items: center;
@@ -18,29 +23,29 @@ header {
 table {
   justify-content: center;
   display: flex;
-  padding: 88px;
+  padding: 2.5svw;
 }
 
 .header {
-  font-size: clamp(10px, 1.2svw, 4rem);
+  font-size: clamp(16px, 1.2svw, 4rem);
   background-color: #595959a3;
   height: 55px;
 }
 
 .emoji {
-  width: 226px;
+  width: 10.5svw;
 }
 
 .country {
-  width: 356px;
+  width: 18svw;
 }
 
 .country-code {
-  width: 200px;
+  width: 16svw;
 }
 
 .iso-code {
-  width: 150px;
+  width: 10svw;
 }
 
 tr {
@@ -50,14 +55,30 @@ tr {
 }
 
 .icon {
-  font-size: clamp(10px, 2.5svw, 4rem);
+  font-size: var(--icon-size);
+  height: 55px;
 }
 
 .text {
-  font-size: clamp(10px, 1svw, 4rem);
+  font-size: var(--font-size);
 }
 
 .icon:hover,
 .text:hover {
   cursor: pointer;
+}
+
+@media screen and (max-width: 1040px) {
+  table {
+    padding: 2.5svw 15px;
+    display: table;
+    width: 100%;
+  }
+
+  .emoji,
+  .country,
+  .country-code,
+  .iso-code {
+    width: auto;
+  }
 }

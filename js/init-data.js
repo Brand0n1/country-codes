@@ -57,6 +57,18 @@ function getRow(json) {
         countryIcon.addEventListener("mouseup", copyCell);
         countryIcon.addEventListener("mouseover", cellHover);
         countryIcon.addEventListener("mouseleave", cellLeave);
+
+        countryCell.addEventListener("mouseup", copyCell);
+        countryCell.addEventListener("mouseover", cellHover);
+        countryCell.addEventListener("mouseleave", cellLeave);
+
+        countryCodeCell.addEventListener("mouseup", copyCell);
+        countryCodeCell.addEventListener("mouseover", cellHover);
+        countryCodeCell.addEventListener("mouseleave", cellLeave);
+
+        countryISO.addEventListener("mouseup", copyCell);
+        countryISO.addEventListener("mouseover", cellHover);
+        countryISO.addEventListener("mouseleave", cellLeave);
     }
     // Get the original color for the cell
     var originalColor = "#868686";
@@ -96,10 +108,32 @@ function getRow(json) {
                 textarea.remove();
             }
         }
+        console.log(cell.className);
+        // Check if the element is an icon
+        if (cell.className == 'icon') {
+            // Change the font size to be normal with the other font
+            cell.style.fontSize = getComputedStyle(document.documentElement)
+                .getPropertyValue('--font-size');
+            // Change the cell text to be "copied"
+            cell.innerHTML = "Copied";
+            // Change the text back after ~2 seconds
+            setTimeout(() => {
+                // Change the text back to normal
+                cell.innerHTML = copy;
+                // Change the font back to normal
+                cell.style.fontSize = getComputedStyle(document.documentElement)
+                    .getPropertyValue('--icon-size');
+            }, 1000);
+            // Nothing left to do, return
+            return;
+        }
         // Change the cell text to be "copied"
         cell.innerHTML = "Copied";
         // Change the text back after ~2 seconds
-        setTimeout(() => { cell.innerHTML = copy; }, 1000);
+        setTimeout(() => {
+            // Change the text back to normal
+            cell.innerHTML = copy;
+        }, 1000);
     }
     function cellHover(e) {
         // Get the cell that was clicked on
