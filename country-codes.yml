@@ -1,0 +1,965 @@
+Afghanistan:
+  Country Code: '93'
+  ISO Code: AF/AFG
+  Icon: 🇦🇫
+Albania:
+  Country Code: '355'
+  ISO Code: AL / ALB
+  Icon: 🇦🇱
+Algeria:
+  Country Code: '213'
+  ISO Code: DZ / DZA
+  Icon: 🇩🇿
+American Samoa:
+  Country Code: '1-684'
+  ISO Code: AS / ASM
+  Icon: 🇦🇸
+Andorra:
+  Country Code: '376'
+  ISO Code: AD / AND
+  Icon: 🇦🇩
+Angola:
+  Country Code: '244'
+  ISO Code: AO / AGO
+  Icon: 🇦🇴
+Anguilla:
+  Country Code: '1-264'
+  ISO Code: AI / AIA
+  Icon: 🇦🇮
+Antarctica:
+  Country Code: '672'
+  ISO Code: AQ / ATA
+  Icon: 🇦🇶
+Antigua and Barbuda:
+  Country Code: '1-268'
+  ISO Code: AG / ATG
+  Icon: 🇦🇬
+Argentina:
+  Country Code: '54'
+  ISO Code: AR / ARG
+  Icon: 🇦🇷
+Armenia:
+  Country Code: '374'
+  ISO Code: AM / ARM
+  Icon: 🇦🇲
+Aruba:
+  Country Code: '297'
+  ISO Code: AW / ABW
+  Icon: 🇦🇼
+Australia:
+  Country Code: '61'
+  ISO Code: AU / AUS
+  Icon: 🇦🇺
+Austria:
+  Country Code: '43'
+  ISO Code: AT / AUT
+  Icon: 🇦🇹
+Azerbaijan:
+  Country Code: '994'
+  ISO Code: AZ / AZE
+  Icon: 🇦🇿
+Bahamas:
+  Country Code: '1-242'
+  ISO Code: BS / BHS
+  Icon: 🇧🇸
+Bahrain:
+  Country Code: '973'
+  ISO Code: BH / BHR
+  Icon: 🇧🇭
+Bangladesh:
+  Country Code: '880'
+  ISO Code: BD / BGD
+  Icon: 🇧🇩
+Barbados:
+  Country Code: '1-246'
+  ISO Code: BB / BRB
+  Icon: 🇧🇧
+Belarus:
+  Country Code: '375'
+  ISO Code: BY / BLR
+  Icon: 🇧🇾
+Belgium:
+  Country Code: '32'
+  ISO Code: BE / BEL
+  Icon: 🇧🇪
+Belize:
+  Country Code: '501'
+  ISO Code: BZ / BLZ
+  Icon: 🇧🇿
+Benin:
+  Country Code: '229'
+  ISO Code: BJ / BEN
+  Icon: 🇧🇯
+Bermuda:
+  Country Code: '1-441'
+  ISO Code: BM / BMU
+  Icon: 🇧🇲
+Bhutan:
+  Country Code: '975'
+  ISO Code: BT / BTN
+  Icon: 🇧🇹
+Bolivia:
+  Country Code: '591'
+  ISO Code: BO / BOL
+  Icon: 🇧🇴
+Bosnia and Herzegovina:
+  Country Code: '387'
+  ISO Code: BA / BIH
+  Icon: 🇧🇦
+Botswana:
+  Country Code: '267'
+  ISO Code: BW / BWA
+  Icon: 🇧🇼
+Brazil:
+  Country Code: '55'
+  ISO Code: BR / BRA
+  Icon: 🇧🇷
+British Indian Ocean Territory:
+  Country Code: '246'
+  ISO Code: IO / IOT
+  Icon: 🇮🇴
+British Virgin Islands:
+  Country Code: '1-284'
+  ISO Code: VG / VGB
+  Icon: 🇻🇬
+Brunei:
+  Country Code: '673'
+  ISO Code: BN / BRN
+  Icon: 🇧🇳
+Bulgaria:
+  Country Code: '359'
+  ISO Code: BG / BGR
+  Icon: 🇧🇬
+Burkina Faso:
+  Country Code: '226'
+  ISO Code: BF / BFA
+  Icon: 🇧🇫
+Burundi:
+  Country Code: '257'
+  ISO Code: BI / BDI
+  Icon: 🇧🇮
+Cambodia:
+  Country Code: '855'
+  ISO Code: KH / KHM
+  Icon: 🇰🇭
+Cameroon:
+  Country Code: '237'
+  ISO Code: CM / CMR
+  Icon: 🇨🇲
+Canada:
+  Country Code: '1'
+  ISO Code: CA / CAN
+  Icon: 🇨🇦
+Cape Verde:
+  Country Code: '238'
+  ISO Code: CV / CPV
+  Icon: 🇨🇻
+Cayman Islands:
+  Country Code: '1-345'
+  ISO Code: KY / CYM
+  Icon: 🇰🇾
+Central African Republic:
+  Country Code: '236'
+  ISO Code: CF / CAF
+  Icon: 🇨🇫
+Chad:
+  Country Code: '235'
+  ISO Code: TD / TCD
+  Icon: 🇹🇩
+Chile:
+  Country Code: '56'
+  ISO Code: CL / CHL
+  Icon: 🇨🇱
+China:
+  Country Code: '86'
+  ISO Code: CN / CHN
+  Icon: 🇨🇳
+Christmas Island:
+  Country Code: '61'
+  ISO Code: CX / CXR
+  Icon: 🇨🇽
+Cocos Islands:
+  Country Code: '61'
+  ISO Code: CC / CCK
+  Icon: 🇨🇨
+Colombia:
+  Country Code: '57'
+  ISO Code: CO / COL
+  Icon: 🇨🇴
+Comoros:
+  Country Code: '269'
+  ISO Code: KM / COM
+  Icon: 🇰🇲
+Cook Islands:
+  Country Code: '682'
+  ISO Code: CK / COK
+  Icon: 🇨🇰
+Costa Rica:
+  Country Code: '506'
+  ISO Code: CR / CRI
+  Icon: 🇨🇷
+Croatia:
+  Country Code: '385'
+  ISO Code: HR / HRV
+  Icon: 🇭🇷
+Cuba:
+  Country Code: '53'
+  ISO Code: CU / CUB
+  Icon: 🇨🇺
+Curacao:
+  Country Code: '599'
+  ISO Code: CW / CUW
+  Icon: 🇨🇼
+Cyprus:
+  Country Code: '357'
+  ISO Code: CY / CYP
+  Icon: 🇨🇾
+Czech Republic:
+  Country Code: '420'
+  ISO Code: CZ / CZE
+  Icon: 🇨🇿
+Democratic Republic of the Congo:
+  Country Code: '243'
+  ISO Code: CD / COD
+  Icon: 🇨🇩
+Denmark:
+  Country Code: '45'
+  ISO Code: DK / DNK
+  Icon: 🇩🇰
+Djibouti:
+  Country Code: '253'
+  ISO Code: DJ / DJI
+  Icon: 🇩🇯
+Dominica:
+  Country Code: '1-767'
+  ISO Code: DM / DMA
+  Icon: 🇩🇲
+Dominican Republic:
+  Country Code:
+  - '1-809'
+  - '1-829'
+  - '1-849'
+  ISO Code: DO / DOM
+  Icon: 🇩🇴
+East Timor:
+  Country Code: '670'
+  ISO Code: TL / TLS
+  Icon: 🇹🇱
+Ecuador:
+  Country Code: '593'
+  ISO Code: EC / ECU
+  Icon: 🇪🇨
+Egypt:
+  Country Code: '20'
+  ISO Code: EG / EGY
+  Icon: 🇪🇬
+El Salvador:
+  Country Code: '503'
+  ISO Code: SV / SLV
+  Icon: 🇸🇻
+Equatorial Guinea:
+  Country Code: '240'
+  ISO Code: GQ / GNQ
+  Icon: 🇬🇶
+Eritrea:
+  Country Code: '291'
+  ISO Code: ER / ERI
+  Icon: 🇪🇷
+Estonia:
+  Country Code: '372'
+  ISO Code: EE / EST
+  Icon: 🇪🇪
+Ethiopia:
+  Country Code: '251'
+  ISO Code: ET / ETH
+  Icon: 🇪🇹
+Falkland Islands:
+  Country Code: '500'
+  ISO Code: FK / FLK
+  Icon: 🇫🇰
+Faroe Islands:
+  Country Code: '298'
+  ISO Code: FO / FRO
+  Icon: 🇫🇴
+Fiji:
+  Country Code: '679'
+  ISO Code: FJ / FJI
+  Icon: 🇫🇯
+Finland:
+  Country Code: '358'
+  ISO Code: FI / FIN
+  Icon: 🇫🇮
+France:
+  Country Code: '33'
+  ISO Code: FR / FRA
+  Icon: 🇫🇷
+French Polynesia:
+  Country Code: '689'
+  ISO Code: PF / PYF
+  Icon: 🇵🇫
+Gabon:
+  Country Code: '241'
+  ISO Code: GA / GAB
+  Icon: 🇬🇦
+Gambia:
+  Country Code: '220'
+  ISO Code: GM / GMB
+  Icon: 🇬🇲
+Georgia:
+  Country Code: '995'
+  ISO Code: GE / GEO
+  Icon: 🇬🇪
+Germany:
+  Country Code: '49'
+  ISO Code: DE / DEU
+  Icon: 🇩🇪
+Ghana:
+  Country Code: '233'
+  ISO Code: GH / GHA
+  Icon: 🇬🇭
+Gibraltar:
+  Country Code: '350'
+  ISO Code: GI / GIB
+  Icon: 🇬🇮
+Greece:
+  Country Code: '30'
+  ISO Code: GR / GRC
+  Icon: 🇬🇷
+Greenland:
+  Country Code: '299'
+  ISO Code: GL / GRL
+  Icon: 🇬🇱
+Grenada:
+  Country Code: '1-473'
+  ISO Code: GD / GRD
+  Icon: 🇬🇩
+Guam:
+  Country Code: '1-671'
+  ISO Code: GU / GUM
+  Icon: 🇬🇺
+Guatemala:
+  Country Code: '502'
+  ISO Code: GT / GTM
+  Icon: 🇬🇹
+Guernsey:
+  Country Code: '44-1481'
+  ISO Code: GG / GGY
+  Icon: 🇬🇬
+Guinea:
+  Country Code: '224'
+  ISO Code: GN / GIN
+  Icon: 🇬🇳
+Guinea-Bissau:
+  Country Code: '245'
+  ISO Code: GW / GNB
+  Icon: 🇬🇼
+Guyana:
+  Country Code: '592'
+  ISO Code: GY / GUY
+  Icon: 🇬🇾
+Haiti:
+  Country Code: '509'
+  ISO Code: HT / HTI
+  Icon: 🇭🇹
+Honduras:
+  Country Code: '504'
+  ISO Code: HN / HND
+  Icon: 🇭🇳
+Hong Kong:
+  Country Code: '852'
+  ISO Code: HK / HKG
+  Icon: 🇭🇰
+Hungary:
+  Country Code: '36'
+  ISO Code: HU / HUN
+  Icon: 🇭🇺
+Iceland:
+  Country Code: '354'
+  ISO Code: IS / ISL
+  Icon: 🇮🇸
+India:
+  Country Code: '91'
+  ISO Code: IN / IND
+  Icon: 🇮🇳
+Indonesia:
+  Country Code: '62'
+  ISO Code: ID / IDN
+  Icon: 🇮🇩
+Iran:
+  Country Code: '98'
+  ISO Code: IR / IRN
+  Icon: 🇮🇷
+Iraq:
+  Country Code: '964'
+  ISO Code: IQ / IRQ
+  Icon: 🇮🇶
+Ireland:
+  Country Code: '353'
+  ISO Code: IE / IRL
+  Icon: 🇮🇪
+Isle of Man:
+  Country Code: '44-1624'
+  ISO Code: IM / IMN
+  Icon: 🇮🇲
+Israel:
+  Country Code: '972'
+  ISO Code: IL / ISR
+  Icon: 🇮🇱
+Italy:
+  Country Code: '39'
+  ISO Code: IT / ITA
+  Icon: 🇮🇹
+Ivory Coast:
+  Country Code: '225'
+  ISO Code: CI / CIV
+  Icon: 🇨🇮
+Jamaica:
+  Country Code: '1-876'
+  ISO Code: JM / JAM
+  Icon: 🇯🇲
+Japan:
+  Country Code: '81'
+  ISO Code: JP / JPN
+  Icon: 🇯🇵
+Jersey:
+  Country Code: '44-1534'
+  ISO Code: JE / JEY
+  Icon: 🇯🇪
+Jordan:
+  Country Code: '962'
+  ISO Code: JO / JOR
+  Icon: 🇯🇴
+Kazakhstan:
+  Country Code: '7'
+  ISO Code: KZ / KAZ
+  Icon: 🇰🇿
+Kenya:
+  Country Code: '254'
+  ISO Code: KE / KEN
+  Icon: 🇰🇪
+Kiribati:
+  Country Code: '686'
+  ISO Code: KI / KIR
+  Icon: 🇰🇮
+Kosovo:
+  Country Code: '383'
+  ISO Code: XK / XKX
+  Icon: 🇽🇰
+Kuwait:
+  Country Code: '965'
+  ISO Code: KW / KWT
+  Icon: 🇰🇼
+Kyrgyzstan:
+  Country Code: '996'
+  ISO Code: KG / KGZ
+  Icon: 🇰🇬
+Laos:
+  Country Code: '856'
+  ISO Code: LA / LAO
+  Icon: 🇱🇦
+Latvia:
+  Country Code: '371'
+  ISO Code: LV / LVA
+  Icon: 🇱🇻
+Lebanon:
+  Country Code: '961'
+  ISO Code: LB / LBN
+  Icon: 🇱🇧
+Lesotho:
+  Country Code: '266'
+  ISO Code: LS / LSO
+  Icon: 🇱🇸
+Liberia:
+  Country Code: '231'
+  ISO Code: LR / LBR
+  Icon: 🇱🇷
+Libya:
+  Country Code: '218'
+  ISO Code: LY / LBY
+  Icon: 🇱🇾
+Liechtenstein:
+  Country Code: '423'
+  ISO Code: LI / LIE
+  Icon: 🇱🇮
+Lithuania:
+  Country Code: '370'
+  ISO Code: LT / LTU
+  Icon: 🇱🇹
+Luxembourg:
+  Country Code: '352'
+  ISO Code: LU / LUX
+  Icon: 🇱🇺
+Macau:
+  Country Code: '853'
+  ISO Code: MO / MAC
+  Icon: 🇲🇴
+Macedonia:
+  Country Code: '389'
+  ISO Code: MK / MKD
+  Icon: 🇲🇰
+Madagascar:
+  Country Code: '261'
+  ISO Code: MG / MDG
+  Icon: 🇲🇬
+Malawi:
+  Country Code: '265'
+  ISO Code: MW / MWI
+  Icon: 🇲🇼
+Malaysia:
+  Country Code: '60'
+  ISO Code: MY / MYS
+  Icon: 🇲🇾
+Maldives:
+  Country Code: '960'
+  ISO Code: MV / MDV
+  Icon: 🇲🇻
+Mali:
+  Country Code: '223'
+  ISO Code: ML / MLI
+  Icon: 🇲🇱
+Malta:
+  Country Code: '356'
+  ISO Code: MT / MLT
+  Icon: 🇲🇹
+Marshall Islands:
+  Country Code: '692'
+  ISO Code: MH / MHL
+  Icon: 🇲🇭
+Mauritania:
+  Country Code: '222'
+  ISO Code: MR / MRT
+  Icon: 🇲🇷
+Mauritius:
+  Country Code: '230'
+  ISO Code: MU / MUS
+  Icon: 🇲🇺
+Mayotte:
+  Country Code: '262'
+  ISO Code: YT / MYT
+  Icon: 🇾🇹
+Mexico:
+  Country Code: '52'
+  ISO Code: MX / MEX
+  Icon: 🇲🇽
+Micronesia:
+  Country Code: '691'
+  ISO Code: FM / FSM
+  Icon: 🇫🇲
+Moldova:
+  Country Code: '373'
+  ISO Code: MD / MDA
+  Icon: 🇲🇩
+Monaco:
+  Country Code: '377'
+  ISO Code: MC / MCO
+  Icon: 🇲🇨
+Mongolia:
+  Country Code: '976'
+  ISO Code: MN / MNG
+  Icon: 🇲🇳
+Montenegro:
+  Country Code: '382'
+  ISO Code: ME / MNE
+  Icon: 🇲🇪
+Montserrat:
+  Country Code: '1-664'
+  ISO Code: MS / MSR
+  Icon: 🇲🇸
+Morocco:
+  Country Code: '212'
+  ISO Code: MA / MAR
+  Icon: 🇲🇦
+Mozambique:
+  Country Code: '258'
+  ISO Code: MZ / MOZ
+  Icon: 🇲🇿
+Myanmar:
+  Country Code: '95'
+  ISO Code: MM / MMR
+  Icon: 🇲🇲
+Namibia:
+  Country Code: '264'
+  ISO Code: NA / NAM
+  Icon: ''
+Nauru:
+  Country Code: '674'
+  ISO Code: NR / NRU
+  Icon: 🇳🇷
+Nepal:
+  Country Code: '977'
+  ISO Code: NP / NPL
+  Icon: 🇳🇵
+Netherlands:
+  Country Code: '31'
+  ISO Code: NL / NLD
+  Icon: 🇳🇱
+Netherlands Antilles:
+  Country Code: '599'
+  ISO Code: AN / ANT
+  Icon: 🇧🇶
+New Caledonia:
+  Country Code: '687'
+  ISO Code: NC / NCL
+  Icon: 🇳🇨
+New Zealand:
+  Country Code: '64'
+  ISO Code: NZ / NZL
+  Icon: 🇳🇿
+Nicaragua:
+  Country Code: '505'
+  ISO Code: NI / NIC
+  Icon: 🇳🇮
+Niger:
+  Country Code: '227'
+  ISO Code: NE / NER
+  Icon: 🇳🇪
+Nigeria:
+  Country Code: '234'
+  ISO Code: NG / NGA
+  Icon: 🇳🇬
+Niue:
+  Country Code: '683'
+  ISO Code: NU / NIU
+  Icon: 🇳🇺
+North Korea:
+  Country Code: '850'
+  ISO Code: KP / PRK
+  Icon: 🇰🇵
+Northern Mariana Islands:
+  Country Code: '1-670'
+  ISO Code: MP / MNP
+  Icon: 🇲🇵
+Norway:
+  Country Code: '47'
+  ISO Code: NO / NOR
+  Icon: 🇳🇴
+Oman:
+  Country Code: '968'
+  ISO Code: OM / OMN
+  Icon: 🇴🇲
+Pakistan:
+  Country Code: '92'
+  ISO Code: PK / PAK
+  Icon: 🇵🇰
+Palau:
+  Country Code: '680'
+  ISO Code: PW / PLW
+  Icon: 🇵🇼
+Palestine:
+  Country Code: '970'
+  ISO Code: PS / PSE
+  Icon: 🇵🇸
+Panama:
+  Country Code: '507'
+  ISO Code: PA / PAN
+  Icon: 🇵🇦
+Papua New Guinea:
+  Country Code: '675'
+  ISO Code: PG / PNG
+  Icon: 🇵🇬
+Paraguay:
+  Country Code: '595'
+  ISO Code: PY / PRY
+  Icon: 🇵🇾
+Peru:
+  Country Code: '51'
+  ISO Code: PE / PER
+  Icon: 🇵🇪
+Philippines:
+  Country Code: '63'
+  ISO Code: PH / PHL
+  Icon: 🇵🇭
+Pitcairn:
+  Country Code: '64'
+  ISO Code: PN / PCN
+  Icon: 🇵🇳
+Poland:
+  Country Code: '48'
+  ISO Code: PL / POL
+  Icon: 🇵🇱
+Portugal:
+  Country Code: '351'
+  ISO Code: PT / PRT
+  Icon: 🇵🇹
+Puerto Rico:
+  Country Code:
+  - '1-787'
+  - '1-939'
+  ISO Code: PR / PRI
+  Icon: 🇵🇷
+Qatar:
+  Country Code: '974'
+  ISO Code: QA / QAT
+  Icon: 🇶🇦
+Republic of the Congo:
+  Country Code: '242'
+  ISO Code: CG / COG
+  Icon: 🇨🇬
+Reunion:
+  Country Code: '262'
+  ISO Code: RE / REU
+  Icon: 🇷🇪
+Romania:
+  Country Code: '40'
+  ISO Code: RO / ROU
+  Icon: 🇷🇴
+Russia:
+  Country Code: '7'
+  ISO Code: RU / RUS
+  Icon: 🇷🇺
+Rwanda:
+  Country Code: '250'
+  ISO Code: RW / RWA
+  Icon: 🇷🇼
+Saint Barthelemy:
+  Country Code: '590'
+  ISO Code: BL / BLM
+  Icon: 🇧🇱
+Saint Helena:
+  Country Code: '290'
+  ISO Code: SH / SHN
+  Icon: ''
+Saint Kitts and Nevis:
+  Country Code: '1-869'
+  ISO Code: KN / KNA
+  Icon: 🇰🇳
+Saint Lucia:
+  Country Code: '1-758'
+  ISO Code: LC / LCA
+  Icon: 🇱🇨
+Saint Martin:
+  Country Code: '590'
+  ISO Code: MF / MAF
+  Icon: 🇲🇫
+Saint Pierre and Miquelon:
+  Country Code: '508'
+  ISO Code: PM / SPM
+  Icon: 🇵🇲
+Saint Vincent and the Grenadines:
+  Country Code: '1-784'
+  ISO Code: VC / VCT
+  Icon: 🇻🇨
+Samoa:
+  Country Code: '685'
+  ISO Code: WS / WSM
+  Icon: 🇼🇸
+San Marino:
+  Country Code: '378'
+  ISO Code: SM / SMR
+  Icon: 🇸🇲
+Sao Tome and Principe:
+  Country Code: '239'
+  ISO Code: ST / STP
+  Icon: 🇸🇹
+Saudi Arabia:
+  Country Code: '966'
+  ISO Code: SA / SAU
+  Icon: 🇸🇦
+Senegal:
+  Country Code: '221'
+  ISO Code: SN / SEN
+  Icon: 🇸🇳
+Serbia:
+  Country Code: '381'
+  ISO Code: RS / SRB
+  Icon: 🇷🇸
+Seychelles:
+  Country Code: '248'
+  ISO Code: SC / SYC
+  Icon: 🇸🇨
+Sierra Leone:
+  Country Code: '232'
+  ISO Code: SL / SLE
+  Icon: 🇸🇱
+Singapore:
+  Country Code: '65'
+  ISO Code: SG / SGP
+  Icon: 🇸🇬
+Sint Maarten:
+  Country Code: '1-721'
+  ISO Code: SX / SXM
+  Icon: 🇸🇽
+Slovakia:
+  Country Code: '421'
+  ISO Code: SK / SVK
+  Icon: 🇸🇰
+Slovenia:
+  Country Code: '386'
+  ISO Code: SI / SVN
+  Icon: 🇸🇮
+Solomon Islands:
+  Country Code: '677'
+  ISO Code: SB / SLB
+  Icon: 🇸🇧
+Somalia:
+  Country Code: '252'
+  ISO Code: SO / SOM
+  Icon: 🇸🇴
+South Africa:
+  Country Code: '27'
+  ISO Code: ZA / ZAF
+  Icon: 🇿🇦
+South Korea:
+  Country Code: '82'
+  ISO Code: KR / KOR
+  Icon: 🇰🇷
+South Sudan:
+  Country Code: '211'
+  ISO Code: SS / SSD
+  Icon: 🇸🇸
+Spain:
+  Country Code: '34'
+  ISO Code: ES / ESP
+  Icon: 🇪🇸
+Sri Lanka:
+  Country Code: '94'
+  ISO Code: LK / LKA
+  Icon: 🇱🇰
+Sudan:
+  Country Code: '249'
+  ISO Code: SD / SDN
+  Icon: 🇸🇩
+Suriname:
+  Country Code: '597'
+  ISO Code: SR / SUR
+  Icon: 🇸🇷
+Svalbard and Jan Mayen:
+  Country Code: '47'
+  ISO Code: SJ / SJM
+  Icon: 🇸🇯
+Swaziland:
+  Country Code: '268'
+  ISO Code: SZ / SWZ
+  Icon: 🇸🇿
+Sweden:
+  Country Code: '46'
+  ISO Code: SE / SWE
+  Icon: 🇸🇪
+Switzerland:
+  Country Code: '41'
+  ISO Code: CH / CHE
+  Icon: 🇨🇭
+Syria:
+  Country Code: '963'
+  ISO Code: SY / SYR
+  Icon: 🇸🇾
+Taiwan:
+  Country Code: '886'
+  ISO Code: TW / TWN
+  Icon: 🇹🇼
+Tajikistan:
+  Country Code: '992'
+  ISO Code: TJ / TJK
+  Icon: 🇹🇯
+Tanzania:
+  Country Code: '255'
+  ISO Code: TZ / TZA
+  Icon: 🇹🇿
+Thailand:
+  Country Code: '66'
+  ISO Code: TH / THA
+  Icon: 🇹🇭
+Togo:
+  Country Code: '228'
+  ISO Code: TG / TGO
+  Icon: 🇹🇬
+Tokelau:
+  Country Code: '690'
+  ISO Code: TK / TKL
+  Icon: 🇹🇰
+Tonga:
+  Country Code: '676'
+  ISO Code: TO / TON
+  Icon: 🇹🇴
+Trinidad and Tobago:
+  Country Code: '1-868'
+  ISO Code: TT / TTO
+  Icon: 🇹🇹
+Tunisia:
+  Country Code: '216'
+  ISO Code: TN / TUN
+  Icon: 🇹🇳
+Turkey:
+  Country Code: '90'
+  ISO Code: TR / TUR
+  Icon: 🇹🇷
+Turkmenistan:
+  Country Code: '993'
+  ISO Code: TM / TKM
+  Icon: 🇹🇲
+Turks and Caicos Islands:
+  Country Code: '1-649'
+  ISO Code: TC / TCA
+  Icon: 🇹🇨
+Tuvalu:
+  Country Code: '688'
+  ISO Code: TV / TUV
+  Icon: 🇹🇻
+U.S. Virgin Islands:
+  Country Code: '1-340'
+  ISO Code: VI / VIR
+  Icon: 🇻🇮
+Uganda:
+  Country Code: '256'
+  ISO Code: UG / UGA
+  Icon: 🇺🇬
+Ukraine:
+  Country Code: '380'
+  ISO Code: UA / UKR
+  Icon: 🇺🇦
+United Arab Emirates:
+  Country Code: '971'
+  ISO Code: AE / ARE
+  Icon: 🇦🇪
+United Kingdom:
+  Country Code: '44'
+  ISO Code: GB / GBR
+  Icon: 🇬🇧
+United States:
+  Country Code: '1'
+  ISO Code: US / USA
+  Icon: 🇺🇸
+Uruguay:
+  Country Code: '598'
+  ISO Code: UY / URY
+  Icon: 🇺🇾
+Uzbekistan:
+  Country Code: '998'
+  ISO Code: UZ / UZB
+  Icon: 🇺🇿
+Vanuatu:
+  Country Code: '678'
+  ISO Code: VU / VUT
+  Icon: 🇻🇺
+Vatican:
+  Country Code: '379'
+  ISO Code: VA / VAT
+  Icon: 🇻🇦
+Venezuela:
+  Country Code: '58'
+  ISO Code: VE / VEN
+  Icon: 🇻🇪
+Vietnam:
+  Country Code: '84'
+  ISO Code: VN / VNM
+  Icon: 🇻🇳
+Wallis and Futuna:
+  Country Code: '681'
+  ISO Code: WF / WLF
+  Icon: 🇼🇫
+Western Sahara:
+  Country Code: '212'
+  ISO Code: EH / ESH
+  Icon: 🇪🇭
+Yemen:
+  Country Code: '967'
+  ISO Code: YE / YEM
+  Icon: 🇾🇪
+Zambia:
+  Country Code: '260'
+  ISO Code: ZM / ZMB
+  Icon: 🇿🇲
+Zimbabwe:
+  Country Code: '263'
+  ISO Code: ZW / ZWE
+  Icon: 🇿🇼
