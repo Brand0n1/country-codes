@@ -1,0 +1,63 @@
+body {
+  font-family: Arial Rounded MT Bold;
+  background-color: #1d1e22;
+  color: white;
+  margin: 0;
+}
+
+header {
+  font-size: clamp(10px, 2.5svw, 4rem);
+  background-color: #333;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100px;
+  display: flex;
+}
+
+table {
+  justify-content: center;
+  display: flex;
+  padding: 88px;
+}
+
+.header {
+  font-size: clamp(10px, 1.2svw, 4rem);
+  background-color: #595959a3;
+  height: 55px;
+}
+
+.emoji {
+  width: 226px;
+}
+
+.country {
+  width: 356px;
+}
+
+.country-code {
+  width: 200px;
+}
+
+.iso-code {
+  width: 150px;
+}
+
+tr {
+  text-align: center;
+  background: #666;
+  height: 40px;
+}
+
+.icon {
+  font-size: clamp(10px, 2.5svw, 4rem);
+}
+
+.text {
+  font-size: clamp(10px, 1svw, 4rem);
+}
+
+.icon:hover,
+.text:hover {
+  cursor: pointer;
+}
